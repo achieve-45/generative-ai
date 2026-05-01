@@ -56,6 +56,7 @@ Your go-to hub for end-to-end GenAI learning. ⭐ Star this repo to stay updated
 - **[GenAI on VertexAI](./docs/genai-with-vertexai.pdf)** - Google Cloud Vertex AI guide
 
 ### 💼 Career & Interview Preparation
+- **[AI Scenario based Interview Q&A](https://aimlcompanion.ai/curriculum/interviewScenarios)** - ML/GenAI/Agentic AI Scenario based Interview Q&A
 - **[GenAI Interview Q&A](./docs/genai-interview-questions.pdf)** - Common interview questions
 - **[Agentic AI Interview Q&A](./docs/agentic-ai-interview-questions.pdf)** - Agent-specific interview prep
 - **[90+ Multi-Agentic AI Interview Q&A](./docs/multi-agentic-interview-qna-latest.pdf)** - Multi-Agentic specific interview prep
